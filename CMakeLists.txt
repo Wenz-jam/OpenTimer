@@ -143,6 +143,7 @@ set(OT_CPP
   ot/timer/scc.cpp
   ot/timer/arc.cpp
   ot/timer/celllib.cpp
+  ot/timer/celllibs.cpp
   ot/timer/test.cpp
   ot/timer/timer.cpp
   ot/timer/clock.cpp
